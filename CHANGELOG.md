@@ -1,8 +1,29 @@
-# 2015-05-07
+# _Not released yet_
+
+## OpenBSD 5.8 - 1.0.0
+
+- Add templates for OpenBSD 5.8 (@dentarg)
+
+# 2015-10-02
+
+## OpenBSD 5.7 - 1.0.2
+
+- Rebuild to fix the package in Atlas
+
+## OpenBSD 5.6 - 1.1.1
+
+- Rebuild to fix the package in Atlas
+
+# 2015-07-24
 
 ## OpenBSD 5.7 - 1.0.0
 
 - Add templates for OpenBSD 5.7 (@bodgit)
+- Add builder for QEMU/libvirt (@thypon)
+
+## OpenBSD 5.6 - 1.1.0
+
+- Add builder for QEMU/libvirt (@thypon)
 
 # 2014-11-18
 
